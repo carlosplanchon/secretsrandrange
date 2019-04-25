@@ -7,6 +7,7 @@
 pip3 install -U secretsrandrange
 ```
 
+```
 secretsrandrange.randrange(
 	start:int,
 	stop=typing.Union[int, NoneType],
@@ -18,3 +19,4 @@ secretsrandrange.randrange(
     :param start: int: Start number.
     :param stop: Stop number. (Default value = Optional[int])
     :param step: int: Step (Default value = 1)
+```
