@@ -8,7 +8,7 @@ readme = Path("README.md").read_text()
 setup(
     name="secretsrandrange",
     packages=["secretsrandrange"],
-    version="0.1",
+    version="0.2",
     license="GPL3",
     description="Implementation of randrange using secrets.",
     long_description=readme,
@@ -17,7 +17,7 @@ setup(
     author_email="bubbledoloresuruguay2@gmail.com",
     url="https://github.com/carlosplanchon/secretsrandrange",
     download_url="https://github.com/carlosplanchon/"
-        "secretsrandrange/archive/v0.1.tar.gz",
+        "secretsrandrange/archive/v0.2.tar.gz",
     keywords=["secrets", "random", "range"],
     classifiers=[
         "Intended Audience :: Developers",
