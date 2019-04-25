@@ -7,6 +7,7 @@
 pip3 install -U secretsrandrange
 ```
 
+# Usage
 ```
 secretsrandrange.randrange(
 	start:int,
